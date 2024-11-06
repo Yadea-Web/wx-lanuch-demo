@@ -1,0 +1,47 @@
+{
+  "name": "h5",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.32",
+    "vue": "^3.2.26",
+    "vue-draggable-next": "^2.2.1",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0",
+    "weixin-js-sdk": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.2",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^9.8.6",
+    "js-md5": "^0.7.3",
+    "node-sass": "^7.0.1",
+    "postcss": "^8.4.16",
+    "postcss-loader": "^7.0.1",
+    "sass": "^1.54.0",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1",
+    "svg-sprite-loader": "^6.0.11",
+    "typescript": "~4.5.5",
+    "unplugin-vue-components": "^0.21.1",
+    "webpack": "^5.74.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 3 versions",
+    "ie >= 9",
+    "safari >= 6",
+    "ios >= 6",
+    "android >= 4.4",
+    "firefox >= 8",
+    "chrome >= 24",
+    "Opera>=10"
+  ]
+}
